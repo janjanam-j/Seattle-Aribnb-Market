@@ -17,6 +17,7 @@ Seattle Airbnb Market- A brief overview
 Files description:
 Data Folder: This folder consists of the Seattle listings data, Calender data can be obtained from- https://www.kaggle.com/airbnb/seattle/data?select=calendar.csv
 
+Seattle_Airbnb_Eploratory_Analysis.ipynb: provided the detailed explanation and code used to answer the business quesitons.
 
 ## Objectives/Motivation of the Analysis:
 
