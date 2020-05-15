@@ -2,11 +2,20 @@
 Seattle Airbnb Market- A brief overview
 
 ## Table of Contents
-1. Objectives of the analysis
-2. A brief layout of the analysis
-3. Results
-4. Future work
+1. Libraries used
+2. Objectives of the analysis
+3. A brief layout of the analysis
+4. Results
+5. Future work
 
+## Libraries used:
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+
+Files description:
+Data Folder: This folder consists of the Seattle listings data, Calender data can be obtained from- https://www.kaggle.com/airbnb/seattle/data?select=calendar.csv
 
 
 ## Objectives/Motivation of the Analysis:
@@ -55,3 +64,6 @@ Data available at:https://www.kaggle.com/airbnb/seattle/data?select=calendar.csv
 
 4. Amenities do have an impact on the price. However, this variable needs an extensive de-cluttering, identifying which combination of amenities are associated with the high pricing listing…. etc
 
+
+Acknowledgement:
+I would like to aknowledge the Kaggle for generously providing the data related to the Seattle Airbnb Market.
