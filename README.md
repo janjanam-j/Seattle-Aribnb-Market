@@ -32,6 +32,8 @@ Data Source: Kaggle generously provided the information of the listings and pric
 
 ### Cleaning the calendar dataset:
 
+Data available at:https://www.kaggle.com/airbnb/seattle/data?select=calendar.csv
+
 1. Special characters are replaced and appropriate variables are converted to their specific data types.
 2. The date variable is decomposed to months, days, and weekdays to understand the seasonal patterns.
 
