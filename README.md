@@ -3,10 +3,11 @@ Seattle Airbnb Market- A brief overview
 
 ## Table of Contents
 1. Libraries used
-2. Objectives of the analysis
-3. A brief layout of the analysis
-4. Results
-5. Future work
+2. File description
+3. Objectives of the analysis
+4. A brief layout of the analysis
+5. Results
+6. Future work
 
 ## Libraries used:
 1. Pandas
@@ -14,7 +15,7 @@ Seattle Airbnb Market- A brief overview
 3. Matplotlib
 4. Seaborn
 
-Files description:
+## Files description:
 Data Folder: This folder consists of the Seattle listings data, Calender data can be obtained from- https://www.kaggle.com/airbnb/seattle/data?select=calendar.csv
 
 Seattle_Airbnb_Eploratory_Analysis.ipynb: provided the detailed explanation and code used to answer the business quesitons.
